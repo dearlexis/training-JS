@@ -50,17 +50,3 @@
 
 //   return message;
 // }
-
-// const fruits = ['apple', 'peach', 'pear', 'banana'];
-// // Change code below this line
-// const fruitsArrayLength = fruits.length;
-// console.log(fruitsArrayLength);
-
-// const fruits = ['apple', 'peach', 'pear', 'banana'];
-
-// // Change code below this line
-// const lastElementIndex = fruits.length - 1;
-// const lastElement = fruits[lastElementIndex];
-
-// console.log(lastElementIndex);
-// console.log(lastElement);
